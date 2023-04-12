@@ -1,2 +1,3 @@
-# toursandsafaris
-Custom understrap travel theme
+toursandsafaris
+# Custom WP Understrap Travel Theme
+Based on the Understrap Child Theme 
